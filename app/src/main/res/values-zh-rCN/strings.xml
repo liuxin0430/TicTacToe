@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="game_status">- 输赢状态 -</string>
+    <string name="start_game">开始新游戏</string>
+    <string name="you_go_first">你先下!</string>
+    <string name="your_turn">该你下了(X)。</string>
+    <string name="machine_go_first">电脑先下！</string>
+    <string name="machine_turn">该电脑下了(O)。</string>
+    <string name="tie">平局！</string>
+    <string name="you_win">你赢了！</string>
+    <string name="machine_win">电脑赢了！</string>
+
+    <string name="menu_quit">退出</string>
+    <string name="menu_about">关于</string>
+    <string name="difficulty">难度</string>
+    <string name="about_msg">Tic Tac Toe，中文叫井字棋，两人轮流在印有九格方盘上划“X”或“O”字, 谁先把三个同一记号排成横线、直线、斜线, 即是胜者！</string>
+    <string name="dialog_ok">好的</string>
+    <string-array name="difficulty_levels">
+        <item>简单</item>
+        <item>困难</item>
+        <item>专家</item>
+    </string-array>
+    <string-array name="game_status_set">
+        <item>赢：</item>
+        <item>和：</item>
+        <item>输：</item>
+    </string-array>
+</resources>

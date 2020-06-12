@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true" >
+    <item
+        android:drawable="@drawable/spark18"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark0"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark1"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark2"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark3"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark4"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark5"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark6"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark7"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark8"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark9"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark10"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark11"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark12"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark13"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark14"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark15"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark16"
+        android:duration="200"/>
+    <item
+        android:drawable="@drawable/spark17"
+        android:duration="200"/>
+
+</animation-list>
+
